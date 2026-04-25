@@ -1,0 +1,9 @@
+Package: com.hitori.waiconpicker
+Name: WAIconPicker
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Adds WhatsApp icon picker inside settings
+Maintainer: Hitori
+Author: Hitori
+Section: Tweaks
+Depends: mobilesubstrate
